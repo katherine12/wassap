@@ -1,0 +1,204 @@
+[class*="col-"] {
+	padding: 0;
+}
+body {
+	background-color: #DFDFDF;
+
+}
+.cabecera {
+	 background-color: #009688;
+	 width: 100%;
+	 height: 138px;
+}
+.contenedor-all {
+	bottom: 80px;
+}
+ .block-right, .block-left{
+	background-color: #EEEEEE;
+	padding: 5px 29px !important;
+	border: 1px solid #EEEEEE;
+}
+.block-left {
+	border-right: 1px solid grey;
+}
+
+.gian, .contact-img {
+	width: 43px;
+	height: 43px;
+	border-radius: 100%;
+}
+
+.iconos, .icon-attachment {
+	
+	font-size: 20px;
+	color: #A6ACB9;
+	float: right;
+	padding-top: 9px;
+}
+.message-box:hover {
+	background-color: rgba(200, 200, 200, 0.35);
+}
+
+.icon-message, .icon-attachment {
+	margin-right: 21px;
+}
+
+[class*="col-"] {
+	padding: 0;
+}
+.top-enlace{
+	color:grey;
+}
+.top-enlace, .title, .comment, .user-name{
+	margin: 0;
+    margin-left: 7px;
+}
+.top-enlace a {
+	color:grey;
+}
+.searching-box, .body-box, .enter-box {
+	background-color: #FFF;
+	padding: 0%;
+}
+.go {
+	background-color: #FBFBFB;
+}.whatsapp-background, .body-box{
+	overflow-y: scroll;
+	height: 552px;
+}
+
+::-webkit-scrollbar-thumb{
+  background: -webkit-linear-gradient(top, #CBCBCB, #CBCBCB);
+  border-radius: 10px;
+}
+::-webkit-scrollbar{
+  width: 8px;
+  background: skyblue;
+}
+
+.go, .message-box {
+	padding: 14px;
+}
+
+.form-lupa, .write-msj  {
+	border : 2px solid #E3DFDA;
+	padding: 6px 6px 6px 28px;
+	width: 100%;
+	border-radius: 5px;
+}
+
+.form-lupa, .icon-search, .write-msj  {
+	font-size: 11px;
+	color: #92908F;
+}
+
+.icon-search{
+	left: 23px;
+	top: 23px;
+}
+.message-box {
+	border: 1px solid white;
+	border-top-color: rgb(225, 223, 222);
+}
+
+.contact-img {
+	float: left;
+}
+
+.user-name, .comment {
+	padding-left: 50px;
+	padding-right: 20px;
+}
+
+.date, .icon-search, .minute, .hour, .icon-insert_emoticon, .icon-mic {
+	position: absolute;
+}
+
+.message-box, .contenedor-all, .opinion, .comment-green, .message {
+	position: relative;
+}
+
+.date {
+	color: #C6C6C6;
+	top: 11px;
+	right: 0;
+	margin-right: 6px;
+}
+.whatsapp-background {
+	background: url(../image/chat-panel-bg.png)repeat;
+	background-color: #EDE9E4;
+	padding:0%; 
+}
+.full-conversation {
+	padding: 26px 33px 4px;
+}
+
+.opinion {
+	background-color: white;
+	margin-right: 48%;
+}
+
+.opinion, .comment-green {
+	padding: 10px;
+	margin-bottom: 3px;	
+	border-radius: 10px;
+}
+.marianacosta {
+	color: #EB92C2;
+}
+.mariapaula {
+	color: #91D9C0;
+}
+.andrealamas {
+	color: #05B5D9;
+}
+.aldo {
+	color: #E5BF4B;
+}
+.minute, .hour {
+	right: 0;
+	bottom: -6px;
+	color: grey;
+    margin-right: 13px;
+}
+
+.comment-green {
+	background-color: #DCF8C6;
+	margin-left: 50%; 
+	float: right;
+}
+
+rite-msj {
+	padding: 7px;
+}
+.icon-insert_emoticon, .icon-mic {
+    font-size: 23px;
+    color: grey;
+}
+.emoticon {
+	padding: 14px 70px;
+	background-color: #F3F0EF;
+}
+.icon-insert_emoticon {
+    bottom: 15px;
+    margin-right: 8px;
+    margin-left: -43px;    
+}
+.icon-mic{
+    
+    margin-right: 24px;
+    bottom: 13px;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
